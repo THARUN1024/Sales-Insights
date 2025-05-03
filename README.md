@@ -8,22 +8,22 @@ This project provides a detailed analysis of sales performance across different 
 - **Tableau**: Created dashboards and visualizations to represent revenue trends, market performance, and sales quantity.
 - **Market Segmentation**: Explored sales performance across different customer segments and markets to identify top performers.
 
-## Key Insights
+##  Key Insights from Sales Data (2017–2020)
 
-1. **Revenue vs Profit Analysis**:  
-   - Highest revenue observed in **Q3 2019**.  
-   - Fluctuating profit margins observed across different quarters from **2017 to 2020**.
+### 1. **Delhi NCR Drives Most Revenue**  
+Delhi NCR brought in over **$519 million**, making it the top-performing market. This region alone contributed more than half of the total revenue.
 
-2. **Revenue by Market**:  
-   - **Total revenue**: **$984.87M**.  
-   - **Top markets**:  
-     - **Delhi NCR**: **$519.57M**.  
-     - **Mumbai**: **$150.08M**.  
-     - **Ahmedabad**: **$132.31M**.
+### 2. **Q3 2019 Had the Highest Sales**  
+The highest revenue was recorded in **Q3 of 2019**, showing a strong sales period during that quarter.
 
-3. **Sales Quantity by Market**:  
-   - **Total sales quantity**: **0.85M**.  
-   - **Top markets by sales quantity**:  
-     - **Delhi NCR**: **988.29K**.  
-     - **Mumbai**: **383.64K**.  
-     - **Nagpur**: **262.09K**.
+### 3. **Top-Selling Product: Prod040**  
+Among all products, **Prod040** had the highest sales, earning **$23.58 million**. It was the most popular product across all markets.
+
+### 4. **Electrical Stores Are the Top Customers**  
+**Electrical Stores** alone contributed more than **$413 million** to the total revenue — the highest among all customers.
+
+### 5. **Revenue Peaked in 2018 and 2019**  
+Looking at year-wise trends, revenue saw noticeable growth in **2018 and 2019**, with visible peaks during those years.
+
+
+
